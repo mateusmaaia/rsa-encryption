@@ -10,7 +10,7 @@ The idea of this project is to show the mathematical concepts behind the RSA (Ri
 
 ## Running locally
  
-![Hacking-testcommituser](https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif)
+![Hacking](https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif)
 
 #### Dowloading dependencies
 ```bash
